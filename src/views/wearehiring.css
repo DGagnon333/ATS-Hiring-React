@@ -1,0 +1,41 @@
+.wearehiring-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.wearehiring-categories {
+  display: flex;
+  flex-direction: row;
+}
+.wearehiring-icon {
+  width: 24px;
+  height: 24px;
+}
+.wearehiring-departments {
+  display: flex;
+  flex-direction: row;
+}
+.wearehiring-icon2 {
+  width: 24px;
+  height: 24px;
+}
+.wearehiring-locations {
+  display: flex;
+  flex-direction: row;
+}
+.wearehiring-icon4 {
+  width: 24px;
+  height: 24px;
+}
+.wearehiring-search {
+  display: flex;
+  flex-direction: row;
+}
+.wearehiring-icon6 {
+  width: 24px;
+  height: 24px;
+}
